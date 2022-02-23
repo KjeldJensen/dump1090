@@ -29,6 +29,15 @@
 //
 #include "coaa.h"
 #include "dump1090.h"
+
+//
+// ============================= Global variables ===========================
+//
+
+// previously defined in dump1090.h
+struct stDF tDF;
+struct modes_t Modes;
+
 //
 // ============================= Utility functions ==========================
 //

@@ -29,6 +29,15 @@
 //
 #include "coaa.h"
 #include "view1090.h"
+
+
+//
+// ============================= Global variables ===========================
+//
+
+// previously defined in dump1090.h
+struct modes_t Modes;
+
 //
 // ============================= Utility functions ==========================
 //
